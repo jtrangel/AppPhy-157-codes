@@ -7,6 +7,12 @@ This semester the outputs were divided into three main parts (A,B,C) which had a
 * B - Image processing
 * C - Machine Learning
 
+Tech stack:
+* [Python](https://www.python.org/)
+* [Google Colab](https://colab.research.google.com/)
+* [Jupyter Notebook](https://jupyter.org/)
+* [Anaconda](https://www.anaconda.com/)
+
 ## 157A
 
 * Report 1 -  Monte carlo simulations and random walks. Interesting phenomena such as Brownian motion was also observed
